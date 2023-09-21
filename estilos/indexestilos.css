@@ -1,0 +1,14 @@
+.cabecera {
+    background-color:#1D5DBD;
+    height: 77px;
+    width: 320px;
+    
+    font-family:  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.cabecera h1{
+    font-size: 16pt;
+    color:#F5F5F5 ;
+    text-align: left;
+
+}
